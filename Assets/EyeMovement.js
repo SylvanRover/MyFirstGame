@@ -108,10 +108,12 @@
 
         {
 
-        Eye.camera.orthographicSize = 50;
+        Eye.camera.orthographicSize = 3
+       ;
 
         }
         
+    
     if (transform.position.x < -9) 
     
     {
